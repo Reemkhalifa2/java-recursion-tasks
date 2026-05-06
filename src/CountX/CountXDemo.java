@@ -5,7 +5,12 @@ public class CountXDemo {
 
         //object of Countx class
         CountX countX = new CountX();
-        countX.countX("xxhixx");
+
+        //Test
+        System.out.println(countX.countX("xxhixx"));
+        System.out.println(countX.countX("xhixhix"));
+        System.out.println(countX.countX("hi"));
+
 
 
     }
