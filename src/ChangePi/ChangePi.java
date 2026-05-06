@@ -10,7 +10,7 @@ public class ChangePi {
         return str.startsWith("pi") ?
                 "3.14" + changePi(str.substring(2))
                 :
-                str.charAt(0) +  changePi(str.substring(1));
+                str.charAt(0) +  changePi(str.substring(0));
 
 
 
