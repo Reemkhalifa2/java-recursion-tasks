@@ -6,6 +6,13 @@ public class CountAbcDemo {
         // object of countAbc
         CountAbc countAbc = new CountAbc();
 
+        // Test
+        System.out.println(countAbc.countAbc("abc"));
+        System.out.println(countAbc.countAbc("abcxxabc"));
+        System.out.println(countAbc.countAbc("abaxxaba"));
+
+
+
 
 
     }
