@@ -9,7 +9,6 @@ public class CountX {
                 (1 + countX(str.substring(1)))
                 :
                 countX(str.substring(1));
-
     }
 
 }
