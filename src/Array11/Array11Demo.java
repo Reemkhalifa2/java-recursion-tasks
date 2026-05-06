@@ -6,6 +6,9 @@ public class Array11Demo {
         // Object for Array11 class
         Array11 array11 = new Array11();
 
+        // Test
+        array11.array11(new int[]{1, 2, 11}, 0);
+
 
 
     }
