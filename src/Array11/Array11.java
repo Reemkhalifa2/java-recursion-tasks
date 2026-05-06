@@ -6,6 +6,13 @@ public class Array11 {
         //Base Case
         if(index == nums.length) return 0;
 
+        //Recursion Case
+        return nums[index] == 11 ?
+                1 + array11(nums, index + 1)
+                :
+                array11(nums, index + 1);
+
+
     }
 
 }
