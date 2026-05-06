@@ -10,6 +10,7 @@ public class BunnyEarsDemo {
         System.out.println( bunnyEars.bunnyEars(0));
         System.out.println(bunnyEars.bunnyEars(1));
         System.out.println(bunnyEars.bunnyEars(2));
+
     }
 
 
