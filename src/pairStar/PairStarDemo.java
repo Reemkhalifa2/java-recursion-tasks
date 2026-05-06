@@ -6,6 +6,9 @@ public class PairStarDemo {
         //Object for PairStar class
         PairStar pairStar = new PairStar();
 
+        // Test
+        pairStar.pairStar("hello");
+
 
     }
 
