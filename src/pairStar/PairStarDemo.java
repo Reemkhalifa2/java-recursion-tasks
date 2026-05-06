@@ -7,7 +7,10 @@ public class PairStarDemo {
         PairStar pairStar = new PairStar();
 
         // Test
-        pairStar.pairStar("hello");
+        System.out.println(pairStar.pairStar("hello"));
+        System.out.println(pairStar.pairStar("xxyy"));
+        System.out.println(pairStar.pairStar("aaaa"));
+
 
 
     }
