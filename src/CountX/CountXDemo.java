@@ -5,6 +5,7 @@ public class CountXDemo {
 
         //object of Countx class
         CountX countX = new CountX();
+        countX.countX("xxhixx");
 
 
     }
