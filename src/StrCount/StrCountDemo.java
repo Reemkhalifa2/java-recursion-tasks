@@ -10,7 +10,6 @@ public class StrCountDemo {
         System.out.println(strCount.strCount("catcowcat", "cow"));
         System.out.println(strCount.strCount("catcowcat", "dog"));
 
-
     }
 
 }
