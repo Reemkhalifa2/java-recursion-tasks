@@ -1,7 +1,7 @@
 package ChangePi;
 
 public class ChangePi {
-    public int countX(String str){
+    public int ChangePi(String str){
 
         //Base Case
         if(str.isEmpty()) return 0;
