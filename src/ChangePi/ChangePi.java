@@ -12,7 +12,5 @@ public class ChangePi {
                 :
                 str.charAt(0) +  changePi(str.substring(0));
 
-
-
     }
 }
