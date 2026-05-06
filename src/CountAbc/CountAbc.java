@@ -1,3 +1,5 @@
+package CountAbc;
+
 public class CountAbc {
     public int countAbc(String str){
 
@@ -9,10 +11,6 @@ public class CountAbc {
                 1 + countAbc(str.substring(1))
                 :
                 countAbc(str.substring(1));
-
-
-
-
 
     }
 }
