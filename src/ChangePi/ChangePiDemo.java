@@ -6,6 +6,8 @@ public class ChangePiDemo {
         // Object of changePI
         ChangePi changePi = new ChangePi();
 
+        changePi.changePi("xpix");
+
 
 
     }
