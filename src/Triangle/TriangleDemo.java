@@ -6,6 +6,9 @@ public class TriangleDemo {
         //Object of Triangle class
         Triangle triangle = new Triangle();
 
+        //Test
+        triangle.triangle(0);
+
 
     }
 }
