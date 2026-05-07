@@ -5,6 +5,9 @@ public class Triangle {
         //Base case
         if(n==0) return 0;
 
+        // recursion case
+        return n + triangle(n - 1);
+
 
     }
 
