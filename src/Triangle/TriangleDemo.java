@@ -7,7 +7,10 @@ public class TriangleDemo {
         Triangle triangle = new Triangle();
 
         //Test
-        triangle.triangle(0);
+        System.out.println(triangle.triangle(0));
+        System.out.println(triangle.triangle(1));
+        System.out.println(triangle.triangle(2));
+
 
 
     }
