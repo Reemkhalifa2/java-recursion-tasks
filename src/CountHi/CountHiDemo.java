@@ -6,6 +6,9 @@ public class CountHiDemo {
         //Object of CountHI class
         CountHi countHi = new CountHi();
 
+        //Test
+        countHi.countHi("xxhixx");
+
 
     }
 
